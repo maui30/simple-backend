@@ -1,0 +1,4 @@
+20240126	22:38:40	696dfc4d-289e-452f-b427-5f9904017026	Error : Not Allowed by CORS
+20240129	15:00:06	0e93033d-ee60-4a65-9c4b-95fd90890346	TypeError : data is not iterable
+20240130	15:40:39	64d51c9e-71fa-4318-bde1-59fec084b6cc	TypeError : Cannot read properties of undefined (reading 'startsWith')
+20240130	15:40:59	35276ba5-d32e-4a38-b3b2-3c665e2626ed	TypeError : Cannot read properties of undefined (reading 'startsWith')
